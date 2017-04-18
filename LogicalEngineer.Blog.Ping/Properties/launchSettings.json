@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LogicalEngineer.Blog.Ping": {
+      "commandName": "Project",
+      "commandLineArgs": "www.google.com"
+    }
+  }
+}

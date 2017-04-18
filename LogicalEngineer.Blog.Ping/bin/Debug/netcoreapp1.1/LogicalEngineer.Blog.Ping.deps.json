@@ -1,0 +1,45 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "0d26cce65ba0cf1d6537bbcda11489c1111211c9"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "logicalengineer.blog.ping/1.0.0": {
+        "dependencies": {
+          "System.Net.Ping": "4.3.0"
+        },
+        "runtime": {
+          "LogicalEngineer.Blog.Ping.dll": {}
+        }
+      },
+      "system.net.ping/4.3.0": {
+        "runtimeTargets": {
+          "runtimes/unix/lib/netstandard1.3/System.Net.Ping.dll": {
+            "rid": "unix",
+            "assetType": "runtime"
+          },
+          "runtimes/win/lib/netstandard1.3/System.Net.Ping.dll": {
+            "rid": "win",
+            "assetType": "runtime"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "logicalengineer.blog.ping/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "system.net.ping/4.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XwY4ozt8PFAMEov5QdXWla3R6U7LiLAVGnjFVWbN0MfQxS7p4PmYBOaD5TwPa7qatU1IUeIO9fJOGGSdqSeG5A==",
+      "path": "system.net.ping/4.3.0",
+      "hashPath": "system.net.ping.4.3.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+C:\Users\natha\OneDrive\Documents\Visual Studio 2017\Projects\LogicalEngineer.Blog.Ping\LogicalEngineer.Blog.Ping\bin\Debug\netcoreapp1.1\LogicalEngineer.Blog.Ping.deps.json
+C:\Users\natha\OneDrive\Documents\Visual Studio 2017\Projects\LogicalEngineer.Blog.Ping\LogicalEngineer.Blog.Ping\bin\Debug\netcoreapp1.1\LogicalEngineer.Blog.Ping.runtimeconfig.json
+C:\Users\natha\OneDrive\Documents\Visual Studio 2017\Projects\LogicalEngineer.Blog.Ping\LogicalEngineer.Blog.Ping\bin\Debug\netcoreapp1.1\LogicalEngineer.Blog.Ping.runtimeconfig.dev.json
+C:\Users\natha\OneDrive\Documents\Visual Studio 2017\Projects\LogicalEngineer.Blog.Ping\LogicalEngineer.Blog.Ping\bin\Debug\netcoreapp1.1\LogicalEngineer.Blog.Ping.dll
+C:\Users\natha\OneDrive\Documents\Visual Studio 2017\Projects\LogicalEngineer.Blog.Ping\LogicalEngineer.Blog.Ping\obj\Debug\netcoreapp1.1\LogicalEngineer.Blog.Ping.csprojResolveAssemblyReference.cache
+C:\Users\natha\OneDrive\Documents\Visual Studio 2017\Projects\LogicalEngineer.Blog.Ping\LogicalEngineer.Blog.Ping\obj\Debug\netcoreapp1.1\LogicalEngineer.Blog.Ping.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Documents\Visual Studio 2017\Projects\LogicalEngineer.Blog.Ping\LogicalEngineer.Blog.Ping\bin\Debug\netcoreapp1.1\LogicalEngineer.Blog.Ping.pdb
+C:\Users\natha\OneDrive\Documents\Visual Studio 2017\Projects\LogicalEngineer.Blog.Ping\LogicalEngineer.Blog.Ping\obj\Debug\netcoreapp1.1\LogicalEngineer.Blog.Ping.dll
+C:\Users\natha\OneDrive\Documents\Visual Studio 2017\Projects\LogicalEngineer.Blog.Ping\LogicalEngineer.Blog.Ping\obj\Debug\netcoreapp1.1\LogicalEngineer.Blog.Ping.pdb
+C:\Blog\PingCommand\LogicalEngineer.Blog.Ping\bin\Debug\netcoreapp1.1\LogicalEngineer.Blog.Ping.deps.json
+C:\Blog\PingCommand\LogicalEngineer.Blog.Ping\bin\Debug\netcoreapp1.1\LogicalEngineer.Blog.Ping.runtimeconfig.json
+C:\Blog\PingCommand\LogicalEngineer.Blog.Ping\bin\Debug\netcoreapp1.1\LogicalEngineer.Blog.Ping.runtimeconfig.dev.json
+C:\Blog\PingCommand\LogicalEngineer.Blog.Ping\bin\Debug\netcoreapp1.1\LogicalEngineer.Blog.Ping.dll
+C:\Blog\PingCommand\LogicalEngineer.Blog.Ping\bin\Debug\netcoreapp1.1\LogicalEngineer.Blog.Ping.pdb
+C:\Blog\PingCommand\LogicalEngineer.Blog.Ping\obj\Debug\netcoreapp1.1\LogicalEngineer.Blog.Ping.csprojResolveAssemblyReference.cache
+C:\Blog\PingCommand\LogicalEngineer.Blog.Ping\obj\Debug\netcoreapp1.1\LogicalEngineer.Blog.Ping.AssemblyInfo.cs
+C:\Blog\PingCommand\LogicalEngineer.Blog.Ping\obj\Debug\netcoreapp1.1\LogicalEngineer.Blog.Ping.dll
+C:\Blog\PingCommand\LogicalEngineer.Blog.Ping\obj\Debug\netcoreapp1.1\LogicalEngineer.Blog.Ping.pdb
